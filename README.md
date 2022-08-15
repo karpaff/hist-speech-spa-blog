@@ -1,6 +1,6 @@
 # History Speeches Blog — training SPA project
 
-It's my first trainig fullstack project — an SPA blog dedicated to known speeches of historical people.
+It's my first trainig fullstack project — an SPA blog dedicated to known speeches of historical figures.
 
 I'm a big fan of public speaking and Pavel Durov. 
 

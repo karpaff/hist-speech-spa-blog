@@ -32,6 +32,8 @@ python manage.py migrate
 # serve at http://127.0.0.1:8000/
 python manage.py runserver
 ```
+For detailed explanation on how things work, check out [Django docs](https://docs.djangoproject.com/en/4.1/)
+
 
 ### Frontend
 

@@ -1,6 +1,5 @@
 # History Speeches Blog — training SPA project
 
-## Blog about what
 It's my first trainig fullstack project — an SPA blog dedicated to known speeches of historical people.
 
 I'm a big fan of public speaking and Pavel Durov. 
@@ -27,7 +26,7 @@ pip install -r requirements.txt
 # make migrations
 python manage.py makemigrations
 
-# make migrate
+# migrate
 python manage.py migrate
 
 # serve at http://127.0.0.1:8000/

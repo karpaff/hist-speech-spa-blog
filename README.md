@@ -10,8 +10,7 @@ Unfortunately, the site durov.com/speeches hasn't been saved. You can now only s
 
 So I decided to restore 'the largest collection of speeches on the Russian network', as Durov called it. 
 
-That's what the blog about.
-
+You can watch the screencast of site working on [Google Disc](https://drive.google.com/file/d/1fj1SxhLKdCE5vUZ16jCP3Ksn8MXWxH_D/view?usp=sharing).
 ## Build Setup
 
 ### Backend

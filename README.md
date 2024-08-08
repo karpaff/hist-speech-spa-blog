@@ -6,7 +6,7 @@ I'm a big fan of public speaking and Pavel Durov.
 
 I found out Pavel Durov was keen on public speeches as well. He even had a special section at his site durov.com where he posted MP3 files with Kennedy, Luther King and other famous people speaking up.
 
-Unfortunately, the site durov.com/speeches hasn't been saved. You can now only see it using Wayback Machine. The downside is you can't listen to MP3 files.
+Unfortunately, the site durov.com/speeches hasn't been saved. You can now only see it using Wayback Machine ([link](https://web.archive.org/web/20070208234912/http://www.durov.com/speeches.htm)). The downside is you can't listen to MP3 files.
 
 So I decided to restore 'the largest collection of speeches on the Russian network', as Durov called it. 
 

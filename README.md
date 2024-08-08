@@ -1,4 +1,4 @@
-# History Speeches Blog — training SPA project
+# History Speeches Blog — study SPA project
 
 It's my first trainig fullstack project — an SPA blog dedicated to known speeches of historical figures.
 

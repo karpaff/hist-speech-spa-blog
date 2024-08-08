@@ -10,7 +10,14 @@ Unfortunately, the site durov.com/speeches hasn't been saved. You can now only s
 
 So I decided to restore 'the largest collection of speeches on the Russian network', as Durov called it. 
 
-[You can watch the screencast of the site on Google Disc →](https://drive.google.com/file/d/1fj1SxhLKdCE5vUZ16jCP3Ksn8MXWxH_D/view?usp=sharing).
+[You can watch the screencast of the site on Google Drive →](https://drive.google.com/file/d/1fj1SxhLKdCE5vUZ16jCP3Ksn8MXWxH_D/view?usp=sharing).
+
+Some screens: 
+
+![Main page](https://i.imgur.com/6mvl62S.png)
+![Speech page](https://i.imgur.com/2ID3aMH.png)
+![Search page](https://i.imgur.com/ITsMv3a.png)
+
 ## Build Setup
 
 ### Backend
